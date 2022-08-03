@@ -1,13 +1,13 @@
 {
-  "name": "react-native-swipeable",
-  "version": "0.6.0",
-  "description": "A powerful React Native swipe component",
+  "name": "react-native-swipeable-reborn",
+  "version": "0.6.1",
+  "description": "A powerful React Native swipe component, forked from react-native-swipeable",
   "main": "lib/index.js",
   "scripts": {
     "build": "make build",
     "lint": "make lint"
   },
-  "author": "Jeff Hanson",
+  "author": "Nilmanduil",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "7.18.10",
@@ -27,11 +27,11 @@
   },
   "peerDependencies": {
     "react": ">=15.2.0",
-    "react-native": ">=0.44.0"
+    "react-native": ">=0.63.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jshanson7/react-native-swipeable.git"
+    "url": "git+https://github.com/Nilmanduil/react-native-swipeable.git"
   },
   "keywords": [
     "react",
