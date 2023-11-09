@@ -1,5 +1,5 @@
 {
-  "name": "react-native-swipeable",
+  "name": "forked-react-native-swipeable",
   "version": "0.6.0",
   "description": "A powerful React Native swipe component",
   "main": "lib/index.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jshanson7/react-native-swipeable.git"
+    "url": "git+https://github.com/mrodavell/react-native-swipeable.git"
   },
   "keywords": [
     "react",
